@@ -1,5 +1,5 @@
 function druhaMocnina (a) {
-  console.log ("Druhá mocnina čísla" + a + "je" + (a * a));
+  console.log ("Druhá mocnina čísla " + a + " je " + (a * a));
 }
 
-druhaMocnina (8)
+druhaMocnina (-5)
