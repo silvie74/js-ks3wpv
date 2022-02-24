@@ -1,5 +1,5 @@
-function JePrvocislo (cislo) {
-  let jePrvocislo = tru;
+function jePrvocislo (cislo) {
+  let jePrvocislo = true;
   for (let i = 2; i < cislo; i++) {
     if (cislo % i ==0) {
       jePrvocislo = false;
@@ -16,3 +16,4 @@ if (jePrvocislo(cislo)) {
 } else {
   console.log("Číslo není prvočíslo");
 }
+
