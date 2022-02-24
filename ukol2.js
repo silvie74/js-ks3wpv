@@ -7,6 +7,7 @@ console.log(soucet);
   console.log("zadej číslo:");
   cislo = Number(prompt("zadej číslo:"));
   
+  
 }
 
 
