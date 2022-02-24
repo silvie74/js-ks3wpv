@@ -1,2 +1,2 @@
 // Import stylesheets
-import "./ukoly/ukol2_fce.js"
+import "./ukoly/ukol_fce.js"
