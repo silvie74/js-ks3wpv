@@ -1,2 +1,2 @@
 // Import stylesheets
-import "./ukoly/ukol2_for.js"
+import "./ukoly/ukol3_for.js"
