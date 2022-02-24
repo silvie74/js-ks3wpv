@@ -1,2 +1,2 @@
 // Import stylesheets
-import './promenne.css';
+import './ukoly/ukol2.js"
